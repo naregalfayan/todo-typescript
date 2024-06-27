@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "id": "a122",
+      "text": "Complete the homework for TypeScript",
+      "completed": false
+    },
+    {
+      "id": "cf98",
+      "text": "Study backend",
+      "completed": false
+    },
+    {
+      "id": "91ad",
+      "text": "Have a good sleep",
+      "completed": false
+    },
+    {
+      "id": "9832",
+      "text": "Drink water",
+      "completed": false
+    },
+    {
+      "id": "d0dd",
+      "text": "Workout",
+      "completed": false
+    },
+    {
+      "id": "9e6d",
+      "text": "Read Pro TypeScript_ Application-Scale JavaScript Development",
+      "completed": false
+    }
+  ]
+}
